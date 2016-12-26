@@ -1,0 +1,47 @@
+main {
+  padding-top: 40px;
+  margin-left: 135px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.nav {
+  margin-left: 0px;
+  margin-top: 0px;
+  padding-top: 0;
+  width: 100%;
+  height: 120px;
+  background-color: #FADFAD;
+}
+
+.textbox {
+  margin-left: 135px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  float: left;
+}
+
+.textbox h1, h2
+{
+  margin: 0;
+}
+
+.holder {
+  height: 380px;
+  width: 256px;
+  border-style: solid;
+  border-color: #e6e6e6;
+  margin-right: 40px;
+}
+
+.char-image {
+  height: 270px;
+  width: 250px;
+  margin: 0;
+}
+
+.holder h3, p {
+  padding-left: 20px;
+}
